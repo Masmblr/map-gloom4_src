@@ -141,7 +141,7 @@ textures\gloom4\stasis5.jpg <sup>[2](#Credit-2)</sup> \
 textures\gloom4\tpanel.jpg <sup>[2](#Credit-2)</sup> \
 textures\gloom4\tpanel2.jpg <sup>[2](#Credit-2)</sup> \
 textures\gloom4\tpanel4.jpg <sup>[2](#Credit-2)</sup> \
-textures\gloom4\white.jpg <sup>[2](#Credit-2)</sup> \
+textures\gloom4\white.jpg <sup>[2](#Credit-2)</sup>
 ***
 
 ### Credit-1
