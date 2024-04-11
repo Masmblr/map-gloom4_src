@@ -23,9 +23,9 @@ Map Description:
 [<img src="meta/preview_levelshots/10.jpg" width="250"/>](meta/preview_levelshots/10.jpg)
 
 ## Version History:
-| Version: | Date:        | Status: | Release Build (.pk3):       
-| ------- | ------------- | ------: | -----------------: |
-| 1.0     | 18/07/2013  | final | [💾](https://github.com/Masmblr/map-Gloom4_src/releases/) |
+| Version: | Date:        | Status: |
+| ------- | ------------- | ------: |
+| 1.0     | 18/07/2013  | release |
 
 ## How-To
 **Binary**:
@@ -146,7 +146,7 @@ textures\gloom4\white.jpg <sup>[2](#Credit-2)</sup>
 
 ### Credit-1
 
-[Matthias "Masmblr Peters"](mailto:masmblr@gmail.com) \
+[Matthias "Masmblr" Peters](mailto:masmblr@gmail.com) \
 Content: Map, Textures, Shaders \
 License: [MIT License](https://opensource.org/license/mit/).
 (See "LICENSE" file for more Informations.)
